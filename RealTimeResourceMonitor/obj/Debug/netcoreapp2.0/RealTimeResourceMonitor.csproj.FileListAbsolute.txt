@@ -1,0 +1,11 @@
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\bin\Debug\netcoreapp2.0\RealTimeResourceMonitor.deps.json
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\bin\Debug\netcoreapp2.0\RealTimeResourceMonitor.runtimeconfig.json
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\bin\Debug\netcoreapp2.0\RealTimeResourceMonitor.runtimeconfig.dev.json
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\bin\Debug\netcoreapp2.0\RealTimeResourceMonitor.dll
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\bin\Debug\netcoreapp2.0\RealTimeResourceMonitor.pdb
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\obj\Debug\netcoreapp2.0\RealTimeResourceMonitor.csprojResolveAssemblyReference.cache
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\obj\Debug\netcoreapp2.0\RealTimeResourceMonitor.csproj.CoreCompileInputs.cache
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\obj\Debug\netcoreapp2.0\RealTimeResourceMonitor.AssemblyInfoInputs.cache
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\obj\Debug\netcoreapp2.0\RealTimeResourceMonitor.AssemblyInfo.cs
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\obj\Debug\netcoreapp2.0\RealTimeResourceMonitor.dll
+E:\Learn\dotnet\RealTimeResourceMonitor\RealTimeResourceMonitor\RealTimeResourceMonitor\obj\Debug\netcoreapp2.0\RealTimeResourceMonitor.pdb
