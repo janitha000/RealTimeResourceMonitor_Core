@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/RealTimeResourceMonitor/v15/Server/sqlite3/storage.ide-wal
+/.vs/RealTimeResourceMonitor/v15/Server/sqlite3/storage.ide-shm
+/.vs/RealTimeResourceMonitor/v15/Server/sqlite3/storage.ide
+/.vs/RealTimeResourceMonitor/v15/Server/sqlite3/db.lock
